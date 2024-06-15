@@ -1,0 +1,22 @@
+// $color: #faf;
+
+// body {
+//     background-color: $color;
+//     user-select: none;
+// }
+
+// img {
+//     -webkit-user-drag: none;
+// }
+
+.demo-logo-vertical {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 8px;
+    margin: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+}
